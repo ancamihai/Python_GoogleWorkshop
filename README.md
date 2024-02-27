@@ -15,8 +15,7 @@ $~~~~~~~~~~~~~$-> implemented with _tkinter_
 _curs05_ -> **list comprehensions** and **lambda expressions**\
 $~~~~~~~~~~~~~$-> exercises with the concepts mentioned above
 
-_proiect_ -> design of a **Web Application** which lets an user create an account, have a profile and submit/edit different places across Romania\
-$~~~~~~~~~~~~~$ through a form  \
+_proiect_ -> design of a **Web Application** which lets an user create an account, have a profile and submit/edit different places across Romania through a form \
 $~~~~~~~~~~~~~$-> implemented with _Django REST Framework_
 
 **_FINAL PROJECT_** -> _tema_proiect_ \
